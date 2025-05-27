@@ -4,4 +4,5 @@
 
 # プルリクのテストです。
 
-# 2回目のプルリクのテストです。
+# 2回目のプルリクのテストです。This is a test line for Claude.
+This is a test line for Claude.
