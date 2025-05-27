@@ -26,5 +26,9 @@ This repository is used for learning and testing Git operations including:
 - Tested pull request functionality
 - Practiced staging and committing changes
 
+## Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on how to get started.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
